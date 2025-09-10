@@ -15,9 +15,9 @@
 ---
 
 ## 📌 **Project Overview**
-- This project focuses on performing **Exploratory Data Analysis (EDA)** on the famous *Titanic dataset* to uncover insights about passenger survival.  
+- This project focuses on performing **Exploratory Data Analysis (EDA)** on the famous **Titanic dataset** to uncover insights about passenger survival.  
 - The goal is to analyze key factors such as age, gender, class, family size, and fare, and understand how they influenced survival chances.  
-- Through data cleaning, visualization, and correlation analysis, this project demonstrates structured EDA practices that are essential in any Machine Learning     workflow.
+- Through **data cleaning, visualization, and correlation analysis**, this project demonstrates structured EDA practices that are essential in any **Machine Learning workflow**.
 ---
 
 ## 🛠️ **Steps Performed**
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 **Key Insights**
+### 4. 📊 **Key Insights**
 - **Gender:** Females had a much higher survival rate than males.  
 - **Class:** Passengers in **1st Class** were more likely to survive.  
 - **Age:** Children had higher survival chances compared to adults.  
@@ -49,20 +49,20 @@
 - **Fare:** Higher ticket fares correlated with higher survival probability.  
 ---
 
-## 💡 **Learnings**
+### 5.💡 **Learnings**
 - Practiced **data wrangling** and handling missing values.  
 - Gained insights into **feature importance** before ML modeling.  
 - Strengthened **data visualization** and storytelling skills.  
 
 ---
 
-## ⚙️ **Tech Stack**
+### 6.⚙️ **Tech Stack**
 - **Python** 🐍  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 
 ---
 
-## 🚀 **Future Scope**
+### 7.🚀 **Future Scope**
 - Apply **Machine Learning models** (Logistic Regression, Random Forest) to predict survival.  
 - Build an **interactive dashboard** using Plotly or Power BI.  
 
