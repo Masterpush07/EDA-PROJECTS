@@ -41,7 +41,7 @@
 
 ---
 
-### 4. 📊 **Key Insights**
+##  📊 **Key Insights**
 - **Gender:** Females had a much higher survival rate than males.  
 - **Class:** Passengers in **1st Class** were more likely to survive.  
 - **Age:** Children had higher survival chances compared to adults.  
@@ -49,20 +49,20 @@
 - **Fare:** Higher ticket fares correlated with higher survival probability.  
 ---
 
-### 5.💡 **Learnings**
+## 💡 **Learnings**
 - Practiced **data wrangling** and handling missing values.  
 - Gained insights into **feature importance** before ML modeling.  
 - Strengthened **data visualization** and storytelling skills.  
 
 ---
 
-### 6.⚙️ **Tech Stack**
+## ⚙️ **Tech Stack**
 - **Python** 🐍  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 
 ---
 
-### 7.🚀 **Future Scope**
+## 🚀 **Future Scope**
 - Apply **Machine Learning models** (Logistic Regression, Random Forest) to predict survival.  
 - Build an **interactive dashboard** using Plotly or Power BI.  
 
