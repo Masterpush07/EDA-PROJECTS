@@ -2,13 +2,11 @@
 
 ## 📑 **Table of Contents**
 - [**Project Overview**](#-project-overview)  
-- [**Dataset**](#-dataset)  
 - [**Steps Performed**](#-steps-performed)  
   - [**Data Preprocessing**](#1-data-preprocessing)  
   - [**Exploratory Data Analysis**](#2-exploratory-data-analysis)  
   - [**Data Visualization**](#3-data-visualization)  
 - [**Key Insights**](#-key-insights)  
-- [**Sample Visualizations**](#-sample-visualizations)  
 - [**Learnings**](#-learnings)  
 - [**Tech Stack**](#-tech-stack)  
 - [**Future Scope**](#-future-scope)  
@@ -21,23 +19,6 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on the fa
 The goal is to analyze key factors such as **age, gender, class, family size, and fare**, and understand how they influenced survival chances.  
 
 Through **data cleaning, visualization, and correlation analysis**, this project demonstrates structured EDA practices that are essential in any **Machine Learning workflow**.
-
----
-
-## 📂 **Dataset**
-- **Source:** [Kaggle – Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)  
-- **Files Used:** `train.csv`  
-- **Size:** `891 rows × 12 columns`  
-
-**Features of Interest:**  
-- `Pclass` – Passenger class  
-- `Sex` – Gender  
-- `Age` – Age of passenger  
-- `SibSp` & `Parch` – Family size aboard  
-- `Fare` – Ticket fare  
-- `Embarked` – Port of embarkation  
-- `Survived` – Survival status (**Target variable**)  
-
 ---
 
 ## 🛠️ **Steps Performed**
@@ -67,12 +48,6 @@ Through **data cleaning, visualization, and correlation analysis**, this project
 - **Age:** Children had higher survival chances compared to adults.  
 - **Family Size:** Those with small families (1–3 members) had better chances of survival than those alone or with large families.  
 - **Fare:** Higher ticket fares correlated with higher survival probability.  
-
----
-
-## 📸 **Sample Visualizations**
-*(Add screenshots of your plots here – survival by gender, class, heatmap, etc.)*  
-
 ---
 
 ## 💡 **Learnings**
@@ -90,7 +65,6 @@ Through **data cleaning, visualization, and correlation analysis**, this project
 
 ## 🚀 **Future Scope**
 - Apply **Machine Learning models** (Logistic Regression, Random Forest) to predict survival.  
-- Perform **feature engineering** for better model accuracy.  
 - Build an **interactive dashboard** using Plotly or Power BI.  
 
 ---
