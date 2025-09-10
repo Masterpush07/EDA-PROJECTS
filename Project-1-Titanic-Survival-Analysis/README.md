@@ -15,8 +15,8 @@
 ---
 
 ## 📌 **Project Overview**
-This project focuses on performing **Exploratory Data Analysis (EDA)** on the famous **Titanic dataset** to uncover insights about passenger survival.  
-The goal is to analyze key factors such as **age, gender, class, family size, and fare**, and understand how they influenced survival chances.  
+This project focuses on performing Exploratory Data Analysis (EDA) on the famous **Titanic dataset to uncover insights about passenger survival.  
+The goal is to analyze key factors such as age, gender, class, family size, and fare, and understand how they influenced survival chances.  
 Through data cleaning, visualization, and correlation analysis, this project demonstrates structured EDA practices that are essential in any Machine Learning workflow.
 ---
 
